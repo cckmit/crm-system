@@ -1,5 +1,9 @@
 # crm-system(人事管理系统)
 
+# 本项目前端：
+
+https://github.com/MSamor/Crm-Vue
+
 # 技术栈
 > springboot，springsecurity，mybatis-plus，mysql
 
