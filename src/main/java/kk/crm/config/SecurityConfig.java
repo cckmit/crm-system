@@ -42,7 +42,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     public static final String LOGIN_WHITELIST = "/login";
 
     // 过滤ALL
-    public static final String FILTER_ALL = "/auth/**";
+    public static final String FILTER_ALL = "/**";
 
     /**
      * 密码编码器
